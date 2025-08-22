@@ -1,7 +1,7 @@
 <?php
 
 $name = true;
-define("NAME", "nico");
+define("NAME", "niaaaaco");
 
 print '<br>';
 print 
